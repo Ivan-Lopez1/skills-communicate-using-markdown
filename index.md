@@ -17,3 +17,9 @@ _codigo typescript_
 var a = 5;
 console.log(a);
 ```
+
+# Lista 
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
